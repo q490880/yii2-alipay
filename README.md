@@ -76,6 +76,5 @@ $resultNotify = \Yii::$app->alipay->notify();
         }else{
             echo 'ERROR';
         }
-将获取到的密钥给客户端返回即可
 ```
 
